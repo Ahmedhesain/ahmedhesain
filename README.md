@@ -1,16 +1,21 @@
-### Hi there 👋
+                                             Hi , I'm Ahmed Hussein 👋
 
-<!--
-**Ahmedhesain/ahmedhesain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                    A passionate frontend developer from Egypt
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning  JS , Angular js and REACT js
+
+👨‍💻 All of my projects are available at https://github.com/Ahmedhesain
+
+💬 Ask me about Dart,flutter, HTML , CSS , BootStrap , and JS
+
+📫 How to reach me ahesain8@gmail.com
+
+⚡ Fun fact Treat me like a friend ,then I'm a friend
+
+
+
+
+Languages and Tools:
+
+[![My Skills](https://skills.thijs.gg/icons?i=angular,bootstrap,css,dart,firebase,flutter,git,html,javascript,nodejs,react,typescript)](https://skills.thijs.gg)
