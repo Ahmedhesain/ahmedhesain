@@ -1,6 +1,6 @@
-                                      <# Zad .0> Hi , I'm Ahmed Hussein 👋
+                                       Hi , I'm Ahmed Hussein 👋
 
-                              <# Zad .0> A passionate frontend developer from Egypt
+                               A passionate frontend developer from Egypt
 
 
 🌱 I’m currently learning  JS , Angular js and REACT js
